@@ -7,6 +7,19 @@ Some scripts focus on visualizing collected data, especially usage statistics. F
 In contrast, BeReal does not collect unnecessary data, such as telemetry. However, a tool is implemented that embeds metadata like GPS location and capture time into the images.
 
 
+## Supported data packages
+
+For each data package, there is a folder containing the tools and possibly an example data package (manually created for testing, not real data due to privacy concerns), along with an explanation of the data formats used and their content.
+
+Anyone is welcome to contribute their own scripts by creating an issue or a pull request.
+
+- [x] BeReal
+- [x] Discord (see [@InformaticFreak/discord-data-analyzer](https://github.com/InformaticFreak/discord-data-analyzer))
+- [ ] Netflix
+- [ ] Niantic (Pokémon-Go)
+- [ ] OpenAI (ChatGPT)
+
+
 ## How can I request my data?
 
 Under [European GDPR law](https://commission.europa.eu/law/law-topic/data-protection/information-individuals_en), you have the right to request a copy of any personal data a company stores about you. This request is often referred to as a "data subject access request" (DSAR).
@@ -54,18 +67,3 @@ I hereby request information about the personal data stored in my <SERVICE> acco
 My email address associated with the account is: <YOUR EMAIL OR OTHER ACCOUNT INFORMATION TO IDENTIFY YOU>
 Please confirm receipt of this request and inform me when I can expect a reply.
 ```
-
-
-## Supported data packages
-
-For each data package, there is a folder containing the tools and possibly an example data package (manually created for testing, not real data due to privacy concerns), along with an explanation of the data formats used and their content.
-
-Anyone is welcome to contribute their own scripts by creating an issue or a pull request.
-
-- [x] BeReal
-- [x] Discord (see [@InformaticFreak/discord-data-analyzer](https://github.com/InformaticFreak/discord-data-analyzer))
-- [ ] Netflix
-- [ ] Niantic (Pokémon-Go)
-- [ ] OpenAI (ChatGPT)
-
-
