@@ -63,7 +63,7 @@ For each data package, there is a folder containing the tools and possibly an ex
 Anyone is welcome to contribute their own scripts by creating an issue or a pull request.
 
 - [x] BeReal
-- [ ] Discord
+- [x] Discord [see @InformaticFreak/discord-data-analyzer](https://github.com/InformaticFreak/discord-data-analyzer)
 - [ ] Netflix
 - [ ] Pokémon-Go
 - [ ] OpenAI
