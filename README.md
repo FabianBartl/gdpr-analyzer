@@ -18,6 +18,8 @@ Anyone is welcome to contribute their own scripts by creating an issue or a pull
 - [ ] Netflix
 - [ ] Niantic (Pokémon-Go)
 - [ ] OpenAI (ChatGPT)
+- [ ] Google
+- [ ] Microsoft
 
 
 ## How can I request my data?
