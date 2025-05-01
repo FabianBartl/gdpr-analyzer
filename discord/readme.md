@@ -8,3 +8,4 @@ According to the [Discord Privacy Policy](https://discord.com/privacy), you can 
 
 ## Implemented Features
 
+(see [@InformaticFreak/discord-data-analyzer](https://github.com/InformaticFreak/discord-data-analyzer))
