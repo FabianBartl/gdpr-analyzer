@@ -1,5 +1,5 @@
 
-# GDPR Analyzer
+# GDPR Toolbox
 
 A collection of scripts to analyze the data packages containing your personal data stored by different companies. Under [European GDPR law](https://commission.europa.eu/law/law-topic/data-protection/information-individuals_en), you have the right to request a copy of any personal data a company stores about you.
 
